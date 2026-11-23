@@ -46,7 +46,7 @@ img {
     width: 100%;
     height: auto;
 }
-```css
+css
 /* カメラ一覧表 */
 
 .camera-table {
@@ -101,4 +101,3 @@ img {
 .camera-table td:last-child {
     white-space: nowrap;
 }
-```
