@@ -101,3 +101,19 @@ css
 .camera-table td:last-child {
     white-space: nowrap;
 }
+/* 通常のリンク */
+a {
+    color: #0066cc;
+    text-decoration: none;
+}
+
+/* 一度訪問したリンク */
+a:visited {
+    color: #cc0000;
+}
+
+/* マウスを乗せたとき */
+a:hover {
+    color: #ff6600;
+    text-decoration: underline;
+}
