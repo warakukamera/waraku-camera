@@ -114,6 +114,6 @@ main a:visited {
 
 /* マウスを乗せたとき */
 main a:hover {
-    color: #ff6600;
+    color: #8000cc;
     text-decoration: underline;
 }
